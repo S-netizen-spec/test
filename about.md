@@ -1,5 +1,3 @@
-# About Me
-
 ## 名前
 山田太郎
 
@@ -15,3 +13,7 @@
 
 ## 目標
 GitHubを使いこなして、チーム開発に参加したい!
+
+## 連絡先
+- Email: example@email.com
+- GitHub: @your-username
